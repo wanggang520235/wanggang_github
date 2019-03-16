@@ -9,5 +9,7 @@ int main()
 	printf("i am just a employee");
 	}	
 	
+	printf("you are fool man");//this is my modify
+
 	return 0;
 }
