@@ -10,6 +10,7 @@ int main()
 	}	
 	
 	printf("you are fool man");//edit by wanggang235
+	printf("you are fool man");//edit by wanggang520235
 
 	return 0;
 }
