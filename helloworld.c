@@ -9,7 +9,7 @@ int main()
 	printf("i am just a employee");
 	}	
 	
-	printf("you are fool man");//this is my modify
+	printf("you are fool man");//edit by wanggang520235
 
 	return 0;
 }
